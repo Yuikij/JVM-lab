@@ -19,5 +19,12 @@
             <artifactId>javassist</artifactId>
             <version>3.30.2-GA</version>
         </dependency>
+        <!-- Maven 依赖 -->
+        <dependency>
+            <groupId>com.github.oshi</groupId>
+            <artifactId>oshi-core</artifactId>
+            <version>6.4.4</version>
+        </dependency>
+
     </dependencies>
 </project>
